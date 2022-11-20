@@ -1,4 +1,4 @@
-import { Route, Switch } from "react-router";
+import { Route, Switch } from "react-router-dom";
 import Header from "./Header";
 import MovieForm from "./MovieForm";
 import MovieList from "./MovieList";
